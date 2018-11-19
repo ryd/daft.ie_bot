@@ -30,7 +30,7 @@ The configuration for the bot is stored in a file called config.txt
 * rent_county - region, usually "dublin"
 
 # Finding your area
-The area is a list, seperated by comma, of districts to include in the search. This list can be archived by visiting daft.ie and start an advanced search. In the URL, the parameter XXX is your choosen areas.
+The area is a list, seperated by comma, of districts to include in the search. This list can be archived by visiting daft.ie and start an advanced search. In the URL, the value after residential-property-for-rent/ *HERE* /? is your choosen areas.
 
 # Licence
 See LICENCE file
