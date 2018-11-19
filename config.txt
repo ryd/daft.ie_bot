@@ -1,0 +1,15 @@
+# Email Settings
+email_address=YOUREMAIL
+email_user=YOUREMAILUSER
+email_password=YOUREMAILPASSWORD
+email_server=YOUREMAILSERVER
+email_port=25
+email_subject=Daft Notification Bot
+
+# daft search criteria
+rent_max_price=2000
+rent_min_bedroom=2
+rent_max_bedroom=2
+rent_area=ballsbridge,blackrock,booterstown,clontarf,donnybrook,dun-laoghaire,dundrum,leopardstown,milltown,monkstown,ranelagh,sandyford,sandymount,stillorgan,windy-arbour
+rent_county=Dublin
+
